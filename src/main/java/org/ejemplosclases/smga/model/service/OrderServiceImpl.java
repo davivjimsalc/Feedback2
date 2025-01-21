@@ -1,4 +1,4 @@
-package org.ejemplosclases.smga.service;
+package org.ejemplosclases.smga.model.service;
 
 import jakarta.transaction.Transactional;
 import org.ejemplosclases.smga.model.Order;

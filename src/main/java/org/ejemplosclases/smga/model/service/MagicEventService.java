@@ -1,4 +1,4 @@
-package org.ejemplosclases.smga.service;
+package org.ejemplosclases.smga.model.service;
 
 import org.springframework.stereotype.Service;
 

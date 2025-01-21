@@ -1,7 +1,7 @@
 package org.ejemplosclases.smga.controller;
 
 import org.ejemplosclases.smga.dto.OrderRequest;
-import org.ejemplosclases.smga.service.OrderServiceImpl;
+import org.ejemplosclases.smga.model.service.OrderServiceImpl;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;

@@ -1,6 +1,6 @@
 package org.ejemplosclases.smga.controller;
 
-import org.ejemplosclases.smga.service.DinosaurMonitoringService;
+import org.ejemplosclases.smga.model.service.DinosaurMonitoringService;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
